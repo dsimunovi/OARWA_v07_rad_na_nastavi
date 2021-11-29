@@ -1,0 +1,12 @@
+li > button {
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+.vazno {
+    font-weight: bold;
+}
+
+.nevazno {
+    font-style: italic;
+}
